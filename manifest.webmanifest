@@ -1,0 +1,23 @@
+{
+  "name": "宝可梦肉鸽 单机离线版",
+  "short_name": "宝可梦肉鸽",
+  "description": "离线单机版宝可梦肉鸽（PokeRogue），支持触屏直点",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#484050",
+  "theme_color": "#8a3939",
+  "icons": [
+    {
+      "src": "./logo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
