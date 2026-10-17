@@ -1,1 +1,0 @@
-import{n as e,t}from"./global-settings-manager-BLxPakKT.js";e();export{t as initSettingsManager};
